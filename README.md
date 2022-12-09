@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bitizmas
 - 👀 I’m interested in coding, currently do not know specific career path im working towards
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on learning python!
 - 📫 How to reach me discord-conk#9099
 
 <!---
